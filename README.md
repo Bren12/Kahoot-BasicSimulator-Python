@@ -1,4 +1,4 @@
-# Kahoot! BasicSimulator in Python 📚
+# Kahoot! Basic Simulator in Python 📚
 
 Source code developed for the final project of the course TC1028.
 
