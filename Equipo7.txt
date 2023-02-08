@@ -1,0 +1,10 @@
+Método que permite ingresar caracteres a una cadena que comúnmente serían invalidos dentro de la misma≤letraº1≤upper()º2≤tuplaº3≤carácter de escapeº4
+Salida de la siguiente instrucción:print(r'Hola a todos!\n qué tal?')≤Hola a todos!\n qué tal?º1≤Hola a todos,qué tal?º2≤hola a todos que tal.º3≤hola a todos!  qué tal?º4
+Menciona la salida de la instrucción: palabras='Hoy está soleado.'y print(palabras[4:17])≤'está soleado.'º1≤'Hoy está sol.'º2≤'soleado'º3≤'está soleado'º4
+Principal instrucción en Python que valida si un caracter o subcadena está presente en otra cadena principal?≤inº1≤salto de líneaº2≤enumerate()º3≤not inº4
+Instrucción para validar si en una cadena hay mínimo una letra y todas son mayúsculas:≤isupper()º1≤islower()º2≤inº3≤isalnum()º4
+Verifican si la primera y última parte de una cadena son iguales a una subcadena en específico:≤startswith() y endswith()º1≤end y startº2≤comenzar() y terminar()º3≤inicio() y fin()º4
+¿Cuál es el resultado de la siguiente expresión en Python: 'color azul'.rjust(15,'*')?≤'**color**azul*'º1≤'*****color azul'º2≤'color azul*****'º3≤'****color azul*'º4
+¿Cuál es el nombre de la instrucción para "eliminar" espacios al inicio y al final de una cadena respectivamente?:≤center()º1≤rstrip()º2≤strip()º3≤ljust()º4
+¿Cuál es la salida del siguiente código de Python: pastel.center(10,'*')?:≤*pastel***º1≤pastelº2≤***pastel*º3≤**pastel**º4
+La salida del código:('Tengo mucha tarea'.split()) es:≤['Tengo', 'mucha', 'tarea']º1≤['Tengo','mucha','tarea']º2≤['Tengo' 'mucha' 'tarea']º3≤['Tengo';'mucha';'tarea']º4

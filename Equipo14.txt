@@ -1,0 +1,10 @@
+Choose the word that is different from the others:≤Overº0≤Duringº0≤Behindº1≤Byº0
+Choose the word with different meaning from the others:≤Strangeº0≤Oddº0≤Oldº1≤Weirdº0
+What color is the sky at sunset?≤Dark blueº0≤Orangeº1≤Blueº0≤Pinkº0
+Word used to ask about a place:≤Whoseº0≤Whenº0≤Whatº0≤Whereº1
+What is the profession of someone who cures animals?≤Veterinarianº1≤Doctorº0≤Professorº0≤Curatorº0
+What is the written form of the number '138'?:≤One hundred thirty eightº1≤One thousand thirty eightº0≤One hundred eighty threeº0≤One thousand eighty threeº0
+What is the synonym of vehicle?≤Platformº0≤Towelº0≤Carº1≤Guitarº0
+What tipe of word is "tall"?≤Adverbº0≤Articleº0≤Adjectiveº1≤Nounº0
+Type of the verb "be":≤Futureº0≤Regularº0≤Pastº0≤Irregularº1
+Past participle of the verb "be":≤Beenº1≤Wasº0≤Beingº0≤Becomeº0

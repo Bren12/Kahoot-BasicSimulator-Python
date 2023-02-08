@@ -1,0 +1,19 @@
+¿Qué es un ciclo?≤Una variableº0≤Una constanteº0≤Un comando de repeticiónº1≤Ningunaº0                                            
+¿Qué es un ciclo contador?≤Es un ciclo en el que se conoce la veces que se va a ejecutarº1≤Es un ciclo en el que no se conoce las veces que se va ejecutarº0≤Es un ciclo que se repite n veces º0≤Ninguna de la anterioresº0
+¿Qué es un ciclo centinela?≤Es un ciclo que se repite n vecesº0≤Es un ciclo en el que no se conoce las veces que se va ejecutarº1≤Es un ciclo en el que se conoce la veces que se va a ejecutar º0≤Ninguna de las anterioresº0
+¿Cúal es el comando para el ciclo contador?≤Forº1≤Printº0≤Whileº0≤Inputº0
+¿Cuál es el comando para el ciclo centinela?≤Inputº0≤Printº0≤Whileº1≤Forº0
+¿Cuál es el nombre de un ciclo que siempre se ejecuta? ≤Ciclo infinitoº1≤Ciclo Centinelaº0≤Ciclo Contadorº0≤Ningunoº0
+¿Cuál es la función de la variable controladora de ciclo (VCC) iK:≤Indica la cantidad de veces que se repite o ejecuta  el cicloº0≤Indica la iteración (vuelta) del ciclo que se va a llevar a caboº1≤Indica las variables que se van a encontrarº0≤Señala los parámetros para generar una secuencia de valoresº0
+¿Cuál es la función de iN:≤Indica la cantidad de veces que se repite o ejecuta el cicloº1≤Indica la iteración (vuelta) del ciclo que se va a llevar a caboº0≤Indica las variables que se van a encontrarº0≤Indica los parámetros que se van a encontrarº0
+¿Cuál es la función de los argumentos en “range”?≤Indica la cantidad de veces que se repite o ejecuta el cicloº0≤Indica la iteración (vuelta) del ciclo que se va a llevar a caboº0≤Ninguna de las anterioresº0≤Señala los parámetros para generar una secuencia de valoresº1
+¿Qué realiza “for”?≤Genera una condición en un cicloº0≤Genera tres condiciones en un cicloº0≤Genera dos condiciones en un cicloº1≤Es el comando para el ciclo centinelaº0
+¿Cuál es el nombre de un ciclo mal diseñado?≤Ciclo infinitoº1≤Ciclo centinelaº0≤Ciclo Contadorº0≤Ninguna de las anterioresº0
+Si: \niN = 3\niK = 1\nwhile iK <= iN:\n print(“iK =”, iK)\n iK = iK + 1\n¿Qué muestra en la pantalla?≤iK = 1\niK = 2\niK = 3º1≤iK = 3\niK = 2\niK = 2º0≤iK = 3\niK = 2\niK = 3º0≤iK = 3\niK = 2\niK = 1º0
+Si:\niN = 5\niK = 1\nwhile iK <= iN:\n print(“iK =”, iK)\n iK = iK + 1\n¿Qué muestra en pantalla?≤5º0≤infinitoº0≤Errorº1
+Si:\niN = 3\niK = 1\nwhile iK <= iN:\n print(“iK =”, iK)\n iK = iK + 1\n¿Cuál es el tipo de ciclo?≤Contador Crecienteº1≤Contador Decrecienteº0≤Ciclo centinelaº0≤Ciclo centinelaº0
+Si:\niN = 3\niK = 1\nwhile iK <= iN:\n print("iK =", iK)\n iK = iK - 1\n¿Cuál es el tipo de ciclo?≤Contador Crecienteº0≤Contador Decrecienteº0≤Ciclo centinelaº1≤Ciclo centinelaº0
+¿Cuál es la función de un acumulador dentro de un ciclo?≤Sumar un valorº0≤Restar un valorº0≤Acumular un valorº1≤Dividir un valorº0
+¿Qué es VCC en un ciclo?≤Un operadorº0≤Un comentarioº0≤La variable controladoraº1≤Una funciónº0
+¿Cuál es la estructura correcta del ciclo while?≤While ik <iNº0≤while iK< iNº0≤while iK < iN:º1
+¿Qué pasa si la condición de un ciclo es falsa?≤Corre el cicloº0≤Se detiene el programaº0≤Ejecuta lo que está después del cicloº1

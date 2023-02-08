@@ -1,0 +1,10 @@
+¿Cuándo fue el primer Mundial de Soccer?≤1939º0≤1930º1≤1888º0≤1940º0
+¿Cuándo fueron las primeras olimpiadas?≤1896º1≤1904º0≤1875º0≤1993º0
+¿Quién estuvo neutral durante la primera guerra mundial?≤Franciaº0≤Italiaº0≤Alemaniaº0≤Noruegaº1
+¿Cuando acabó la segunda guerra mundial?≤1943º0≤1946º0≤1945º1≤1940º0
+¿Cuál es la capital de México?≤Ciudad de Méxicoº1≤Distrito Federalº0≤Nuevo Leónº0≤Guerreroº0
+¿Quién inventó la luz eléctrica?≤Alva Edisonº1≤Newtonº0≤Tom Fordº0≤Julio Cesarº0
+¿Cuándo empezó la segunda guerra mundial?≤1934º0≤1956º0≤1915º0≤1939º1
+¿Cuándo empezó la primera guerra mundial?≤1917º0≤2001º0≤1914º1≤1900º0
+¿Quiénes fueron los países protagonistas en la guerra fría?≤Estados Unidos y Rusiaº1≤Estados Unidos y Japónº0≤Rusia y Alemaniaº0≤Suiza y Hondurasº0
+¿En qué año empezó la independencia de México?≤1815º0≤1810º1≤1814º0≤1900º0
