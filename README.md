@@ -9,7 +9,7 @@ Source code developed for the final project of the course TC1028.
 ## Project Description
 
 Computer program developed to support the improvement of skills and knowledge in any of the three 
-focus areas: reading, mathematics and science (which evaluates the PISA test of the OECD).
+focus areas: reading, mathematics and science (which evaluates the PISA test of the OCDE).
 
 ## Files Description
 
