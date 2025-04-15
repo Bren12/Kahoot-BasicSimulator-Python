@@ -4,6 +4,7 @@ Source code developed for the final project of the course TC1028.
 
 **Course:** TC1028 (Computational Thinking for Engineering) <br>
 **Developed by:** [Brenda Saucedo](https://github.com/Bren12) <br>
+**Language:** Python <br>
 **Semester:** AD20
 
 ## Project Description
